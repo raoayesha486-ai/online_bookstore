@@ -38,9 +38,12 @@ This project focuses on *clean UI design, **responsive layout, and **JavaScript-
 
 ## 📸 Screenshots
 
-![Home Page](https://via.placeholder.com/900x400.png?text=Home+Page)
-![Books Section](https://via.placeholder.com/900x400.png?text=Books+Section)
-![Cart](https://via.placeholder.com/900x400.png?text=Shopping+Cart)
+![Home Page]<img width="1897" height="917" alt="Screenshot 2026-01-19 221327" src="https://github.com/user-attachments/assets/65524d8f-e49d-4ad8-997b-ba13a190cf92" />
+
+![Books Section]<img width="852" height="412" alt="Screenshot 2026-01-19 223319" src="https://github.com/user-attachments/assets/9875f50e-4cb8-4fcb-af0f-b47f8707bbba" />
+
+![Cart]<img width="1643" height="472" alt="Screenshot 2026-01-19 223447" src="https://github.com/user-attachments/assets/a11a59a8-39ac-4a65-8952-c8b29eacb67d" />
+
 
 ---
 
